@@ -43,7 +43,7 @@ const Post = () =>{
                            
                             <p>{`${film.opening_crawl.substring(0,252)}... `}</p>
                             <hr />
-                            <a href="">More info</a>
+                            <a href="https://www.google.com">More info</a>
                          
                         </div>      
                         
